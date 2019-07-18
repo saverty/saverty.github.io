@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["WAMI1"]); }
+
+__d("MessengerStoriesRingPresence_montageThread.graphql",[],(function(a,b,c,d,e,f){"use strict";a={kind:"Fragment",name:"MessengerStoriesRingPresence_montageThread",type:"MontageThread",metadata:null,argumentDefinitions:[],selections:[{kind:"ScalarField",alias:null,name:"montage_container_id",args:null,storageKey:null}]};e.exports=a}),null);

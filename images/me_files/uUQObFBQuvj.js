@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["tqzZf"]); }
+
+__d("MessengerStoriesRingPresence.react",["MessengerProfilePresenceReact.re","React","RelayModern","MessengerStoriesRingPresence_montageThread.graphql"],(function(a,b,c,d,e,f){"use strict";__p&&__p();var g=b("MessengerProfilePresenceReact.re").make;c=b("RelayModern").createFragmentContainer;b("RelayModern").graphql;function a(a){var c=a.className,d=a.montageThread,e=a.size,f=a.storiesRingEligible,h=a.thread,i=a.hasUnreadStories;a=a.viewer;d==null?void 0:d.montage_container_id;return b("React").createElement(g,{className:c,size:e,storiesRingEligible:f,thread:h,hasUnreadStories:i,viewer:a})}e.exports=c(a,{montageThread:function(){return b("MessengerStoriesRingPresence_montageThread.graphql")}})}),null);
